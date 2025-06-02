@@ -65,3 +65,4 @@ Automated node management solution for Camp Network - a decentralized storage pl
 - camp autofarm
 - camp miner
 - camp airdrop
+![image](https://github.com/user-attachments/assets/5ada5cf5-e886-4fda-83f8-b203fb048f1c)
